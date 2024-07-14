@@ -20,9 +20,9 @@ This project is built with React and React Material UI.
 
 ## To run this project:
 
-1. Open repsository in code editor
+1. Open repsository in code editor.
 
-2. Install node.js to your machine.
+2. Install **node.js** to your machine.
 
 3. Run **npm install** to install all the dependencies needed for the project.
 
