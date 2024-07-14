@@ -1,6 +1,34 @@
-# Getting Started with Create React App
+# Sampl project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is built with React.
+
+## To clone this project's repository:
+
+1. Open the main page of the repository on GitHub.
+
+2. Click the icon to copy the link on the **Clone with HTTPS** tab.
+
+3. On your computer, copy the path to the folder where you want the repository to be saved.
+
+4. Open a terminal on your computer.
+
+5. In terminal type **git-clone** and paste in the url link from step 2.
+
+6. This will download the respository to your local computer.
+
+---
+
+## To run this project:
+
+1. Open repsository in code editor
+
+2. Install node.js to your machine.
+
+3. Run **npm install** to install all the dependencies needed for the project.
+
+4. run **npn start** to start start the server and run the project in development mode.
+
+---
 
 ## Available Scripts
 
