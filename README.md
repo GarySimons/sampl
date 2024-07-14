@@ -1,6 +1,6 @@
 # Sampl project
 
-This project is built with React.
+This project is built with React and React Material UI.
 
 ## To clone this project's repository:
 
@@ -18,7 +18,7 @@ This project is built with React.
 
 ---
 
-## To run this project:
+## To run this project:
 
 1. Open repsository in code editor
 
