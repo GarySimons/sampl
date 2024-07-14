@@ -1,0 +1,28 @@
+.step-header {
+  max-width: 600px;
+  width: 90vw;
+}
+
+.step-header-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 600px;
+  width: 90vw;
+  gap: 1rem;
+  margin-bottom: 3rem;
+}
+
+.step-header-step {
+  width: 0.8rem;
+  height: 0.8rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #888888;
+  border-radius: 50%;
+
+  &.completed {
+    background-color: #70a8db;
+  }
+}

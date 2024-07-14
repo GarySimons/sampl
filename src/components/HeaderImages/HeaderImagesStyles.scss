@@ -1,0 +1,13 @@
+.sampl-logo {
+  width: 13rem;
+  margin: 0 0 1rem 0;
+
+  @media screen and (min-width: 480px) {
+    width: 14rem;
+  }
+}
+
+.sampl-product {
+  max-width: 20rem;
+  width: 90vw;
+}
